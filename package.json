@@ -5,6 +5,7 @@
   "license": "Apache-2.0",
   "author": "Rancher Labs, Inc.",
   "private": true,
+  "version": "v2.6.5"
   "engines": {
     "node": ">=12"
   },
